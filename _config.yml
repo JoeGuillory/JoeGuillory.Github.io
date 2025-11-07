@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Joe Guillory
 title: Programmer
-email: Joeguillory15@gmial.com
+email: Joeguillory15@gmail.com
 website: https://github.com/JoeGuillory
 
 # Dark Mode (true/false/never)
@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 github_username:  JoeGuillory
-soundcloud_username: ElementalPenguin
+#soundcloud_username: ElementalPenguin
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -58,11 +58,7 @@ content:
         title: WaywardWorlock
         link: https://wayward-warlock.itch.io/wayward-warlock
         description: This is a minor production game that I worked on. It is a retro endless style game were you shoot at golems.
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # link_text: Project Websit
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme
