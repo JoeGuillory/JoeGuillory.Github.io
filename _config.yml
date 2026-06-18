@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: WaywardWorlock
+        title: Wayward Warlock
         link: https://wayward-warlock.itch.io/wayward-warlock
         description: This is a minor production game that I worked on. It is a retro endless style game were you shoot at golems.
         # link_text: Project Websit
